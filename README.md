@@ -27,5 +27,6 @@ https://huggingface.co/unitary/toxic-bert/tree/main
 https://huggingface.co/unitary/unbiased-toxic-roberta/tree/main
 
 
-Spacy models
+Spacy models compatible with SPACY version > 3.x
 https://github.com/explosion/spacy-models?tab=readme-ov-file
+https://spacy.io/models/en
