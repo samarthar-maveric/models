@@ -32,3 +32,8 @@ https://github.com/explosion/spacy-models?tab=readme-ov-file <br>
 
 All the 4 models from: <br>
 https://spacy.io/models/en  <br>
+  en_core_web_lg <br>
+  en_core_web_sm <br>
+  en_core_web_md <br>
+  en_core_web_trf <br>
+  
