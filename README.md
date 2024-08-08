@@ -3,7 +3,7 @@
 
 # ALBERT models
 https://huggingface.co/albert 
-V2 models - Base, large, xlarge, xxlarge
+V2 models - Base, large, xlarge
 
 
 Files required:
@@ -18,7 +18,8 @@ Files required:
 Ex:
 Alber-base-v2 models
 https://huggingface.co/albert/albert-base-v2/tree/main
-
+https://huggingface.co/albert/albert-large-v2/tree/main
+https://huggingface.co/albert/albert-xlarge-v2/tree/main
 
 
 
