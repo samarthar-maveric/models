@@ -18,3 +18,13 @@ Files required:
 Ex:
 Alber-base-v2 models
 https://huggingface.co/albert/albert-base-v2/tree/main
+
+
+
+
+https://huggingface.co/unitary/toxic-bert/tree/main
+https://huggingface.co/unitary/unbiased-toxic-roberta/tree/main
+
+
+Spacy models
+https://github.com/explosion/spacy-models?tab=readme-ov-file
