@@ -1,11 +1,8 @@
 # models
 
 
-
-
-
-
-https://huggingface.co/albert \n
+# ALBERT models
+https://huggingface.co/albert 
 V2 models - Base, large, xlarge, xxlarge
 
 
