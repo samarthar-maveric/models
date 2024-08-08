@@ -19,13 +19,15 @@ Ex: <br>
 Alber-base-v2 models <br>
 https://huggingface.co/albert/albert-base-v2/tree/main <br>
 https://huggingface.co/albert/albert-large-v2/tree/main <br>
-https://huggingface.co/albert/albert-xlarge-v2/tree/main <br>
 
+NSFW <br>
+https://huggingface.co/michellejieli/NSFW_text_classifier/tree/main?not-for-all-audiences=true <br>
 
+Toxic bert <br>
+https://huggingface.co/unitary/toxic-bert/tree/main <br>
 
-https://huggingface.co/unitary/toxic-bert/tree/main
-https://huggingface.co/unitary/unbiased-toxic-roberta/tree/main
-
+Facebook BART MultiNLI
+https://huggingface.co/facebook/bart-large-mnli/tree/main
 
 Spacy models compatible with SPACY version > 3.x <br>
 https://github.com/explosion/spacy-models?tab=readme-ov-file <br>
