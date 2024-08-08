@@ -17,9 +17,9 @@ Files required:
 
 Ex:
 Alber-base-v2 models
-https://huggingface.co/albert/albert-base-v2/tree/main
-https://huggingface.co/albert/albert-large-v2/tree/main
-https://huggingface.co/albert/albert-xlarge-v2/tree/main
+https://huggingface.co/albert/albert-base-v2/tree/main <br>
+https://huggingface.co/albert/albert-large-v2/tree/main <br>
+https://huggingface.co/albert/albert-xlarge-v2/tree/main <br>
 
 
 
@@ -27,6 +27,8 @@ https://huggingface.co/unitary/toxic-bert/tree/main
 https://huggingface.co/unitary/unbiased-toxic-roberta/tree/main
 
 
-Spacy models compatible with SPACY version > 3.x
-https://github.com/explosion/spacy-models?tab=readme-ov-file
-https://spacy.io/models/en
+Spacy models compatible with SPACY version > 3.x <br>
+https://github.com/explosion/spacy-models?tab=readme-ov-file <br>
+
+All the 4 models from: <br>
+https://spacy.io/models/en 
